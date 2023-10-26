@@ -1,0 +1,22 @@
+.input {}
+
+.input input {
+  margin-top: 2rem;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 1px solid transparent;
+  outline: none;
+  color: #1e7891;
+  transition: box-shadow .3s ease;
+  font-size: 1rem;
+}
+
+.input input:hover {
+  border: 1px solid #40c3e7;
+}
+
+.input input:focus {
+  border: 1px solid #09b6e6;
+  box-shadow: #09b6e6 0px 0px 10px;
+}
+  

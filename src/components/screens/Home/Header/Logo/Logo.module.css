@@ -1,0 +1,10 @@
+.logo{
+  width: 40px;
+  cursor: pointer;
+  margin-right: 300px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #5bb7d0;
+  font-size: 1.6rem;
+}

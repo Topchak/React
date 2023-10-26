@@ -1,0 +1,14 @@
+.promo {
+  min-height: 100vh;
+}
+
+.content {
+  padding: 100px 0 0 80px;
+  color: #59c6e5;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+}
+
+.content p {
+  margin-top: 0.5rem;
+}
